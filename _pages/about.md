@@ -14,7 +14,7 @@ I'm a fourth-year undergraduate student at the [School of EIEE](https://english.
 
 I am very fortunate to be advised by [Prof. Weinan Zhang](https://wnzhang.net/), Shanghai Jiao Tong University.
 
-I am currently on an inter at the [University of Maryland, College Park](https://umd.edu/), supervised by [Prof. Kaiqing Zhang](https://kzhang66.github.io/).
+I am currently doing an internship at the [University of Maryland, College Park](https://umd.edu/), supervised by [Prof. Kaiqing Zhang](https://kzhang66.github.io/).
 
 You can find my CV [here](../assets/CV.pdf).
 
