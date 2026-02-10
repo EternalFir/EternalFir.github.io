@@ -8,17 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year undergraduate student at the [School of EIEE](https://english.seiee.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interests include multi-agent reinforcement learning, game theory, and large language models.
+I'm a first-year PhD student at the [ECE Department, Northeastern University](https://ece.northeastern.edu/). My research interests include multi-agent reinforcement learning and game theory. My PhD advisor is [Prof. Mahdi Imani](https://coe.northeastern.edu/people/imani-mahdi/).
 
+I obtained my bachelor’s degree (honors) in computer science from the [ACM class](https://acm.sjtu.edu.cn/home), [School of EIEE](https://english.seiee.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My undergraduate research advisor is [Prof. Weinan Zhang](https://wnzhang.net/), Shanghai Jiao Tong University.
 
-
-I am very fortunate to be advised by [Prof. Weinan Zhang](https://wnzhang.net/), Shanghai Jiao Tong University.
-
-I am currently doing an internship at the [University of Maryland, College Park](https://umd.edu/), supervised by [Prof. Kaiqing Zhang](https://kzhang66.github.io/).
+I'm also very fortunate to have an internship at the [University of Maryland, College Park](https://umd.edu/), supervised by [Prof. Kaiqing Zhang](https://kzhang66.github.io/).
 
 You can find my CV [here](../assets/CV.pdf).
 
-[Email](mailto:chenyongshan@sjtu.edu.cn)/[Github](https://github.com/EternalFir)
+[Email](mailto:chen.yongs@northeastern.edu)/[Github](https://github.com/EternalFir)
 
 
 
